@@ -1,0 +1,4 @@
+name: infra
+runtime: nodejs
+description: Represents cloud infrastructure needed for E2E tests in CI.
+main: pulumi/

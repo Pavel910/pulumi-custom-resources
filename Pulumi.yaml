@@ -1,0 +1,4 @@
+name: e2e
+runtime: nodejs
+description: Represents cloud infrastructure needed for Webiny E2E tests in CI environment.
+main: pulumi/
